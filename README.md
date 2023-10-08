@@ -2,15 +2,6 @@
 
 This repository contains a simple example of using recursion in the C programming language. Recursion is a technique in which a function calls itself to solve a problem. This example demonstrates a basic recursive function and provides a step-by-step guide on how to create and use recursive functions in C.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Understanding Recursion](#understanding-recursion)
-- [Example](#example)
-- [Running the Code](#running-the-code)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -23,7 +14,7 @@ Before you begin, ensure you have the following installed:
 To get started, you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/c-recursion-example.git
+git clone [https://github.com/yourusername/c-recursion-example.git](https://github.com/Navneet1206/Recursion-in-c.git)
 ```
 
 Alternatively, you can download the code as a ZIP file and extract it to your preferred directory.
@@ -85,6 +76,4 @@ You can change the value of `num` in the `main` function to calculate the factor
 
 If you'd like to contribute to this project by adding more examples or improving the documentation, please feel free to create a pull request. We welcome your contributions!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
